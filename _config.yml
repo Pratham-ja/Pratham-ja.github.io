@@ -114,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Pratham Chaudhary"
+  avatar           : /assets/images/My_pic.jpg
+  bio              : "I am an individual researcher in deep learning."
+  location         : "India"
+  email            : prathamchaudhary3819@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

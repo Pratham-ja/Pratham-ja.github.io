@@ -1,6 +1,6 @@
 ---
 layout: home
-author_profile: false
+author_profile: true
 ---
 
 
@@ -23,6 +23,5 @@ The views expressed on this site are my own and do not represent those of any or
 ---
 
 ### Links
-- GitHub: https://github.com/Pratham-ja  
-- (Optional) Google Scholar: *add when available*  
-- (Optional) Twitter / X: *add if you plan to discuss research publicly*
+- - GitHub: [https://github.com/Pratham-ja](https://github.com/Pratham-ja)
+ 
