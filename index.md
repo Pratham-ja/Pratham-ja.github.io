@@ -3,7 +3,7 @@ layout: home
 author_profile: false
 ---
 
-## Pratham Chaudhary
+
 
 I am an individual researcher interested in **Deep Learning**, with a particular focus on **Natural Language Processing** and **Computer Vision**.
 
